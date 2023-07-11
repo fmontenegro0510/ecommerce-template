@@ -4,6 +4,10 @@ import Menu from './components/Menu/Menu'
 import Login from './components/Login/Login'
 import Footer from './components/Footer/Footer'
 import Hero from './components/Hero/Hero'
+import HeroC from './components/HeroC/HeroC'
+import HeroTwoC from './components/HeroTwoC/HeroTwoC'
+import LoginBox from './components/LoginBox/LoginBox'
+
 function App() {
   return (
     <>
@@ -24,9 +28,7 @@ function App() {
 </div>
  */}
 
-
-
-<div className="container mx-auto px-4">
+{/* <div className="container mx-auto px-4">
     <header className="py-4">
     <Banner />
 		  <Menu />
@@ -40,8 +42,19 @@ function App() {
     </main>
     <Footer />
 
-  </div>
+  </div> */}
 
+  <div className="container mx-auto px-4">
+    {/* <HeroC /> */}
+    {/* <HeroTwoC /> */}
+    {/* <LoginBox /> */}
+
+
+
+
+
+
+  </div>
 
 
 
