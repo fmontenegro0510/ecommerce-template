@@ -7,6 +7,8 @@ import Hero from './components/Hero/Hero'
 import HeroC from './components/HeroC/HeroC'
 import HeroTwoC from './components/HeroTwoC/HeroTwoC'
 import LoginBox from './components/LoginBox/LoginBox'
+import ReviewStars from './components/ReviewStars/ReviewStars'
+import ReviewComment from './components/ReviewComment/ReviewComment'
 
 function App() {
   return (
@@ -48,6 +50,11 @@ function App() {
     {/* <HeroC /> */}
     {/* <HeroTwoC /> */}
     {/* <LoginBox /> */}
+    <ReviewStars />
+    <ReviewComment />
+
+
+
 
 
 
