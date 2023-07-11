@@ -9,6 +9,7 @@ import HeroTwoC from './components/HeroTwoC/HeroTwoC'
 import LoginBox from './components/LoginBox/LoginBox'
 import ReviewStars from './components/ReviewStars/ReviewStars'
 import ReviewComment from './components/ReviewComment/ReviewComment'
+import Footer2 from './components/Footer2/Footer2'
 
 function App() {
   return (
@@ -52,6 +53,7 @@ function App() {
     {/* <LoginBox /> */}
     <ReviewStars />
     <ReviewComment />
+    <Footer2 />
 
 
 
